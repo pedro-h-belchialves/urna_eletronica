@@ -1,0 +1,24 @@
+Pedro de Assis, MG17845369, 015443020272, Formiga, MG
+Carla Machado, SP156987456, 848242120221, Osasco, SP
+Félix Nascimento, MG18123654, 670351800264, Pains, MG
+Luís Silva, SP16457956, 732787030230, Santa Maria, SP
+Mariana Oliveira, MG20315478, 542312789012, Belo Horizonte, MG
+André Santos, SP145632789, 023187654321, Campinas, SP
+Camila Costa, MG18765432, 981234567890, Divinópolis, MG
+Gustavo Lima, SP19876543, 564320987654, Porto Alegre, SP
+Beatriz Oliveira, MG17654329, 112233445566, Itaúna, MG
+Ricardo Almeida, SP17654398, 990011223344, São Paulo, SP
+Juliana Pereira, MG20123456, 333444555666, Uberaba, MG
+Lucas Fernandes, SP16543210, 777888999000, Santos, SP
+Fernanda Rocha, MG18976543, 123456789012, Sete Lagoas, MG
+Rodrigo Santos, SP15432109, 555666777888, São José dos Campos, SP
+Patrícia Costa, SP14329876, 444555666777, Caxias do Sul, SP
+Daniel Oliveira, MG19876543, 888999000111, Juiz de Fora, MG
+Cristina Lima, SP13456789, 666777888999, Guarulhos, SP
+Leandro Silva, MG17543210, 222333444555, Betim, MG
+Vanessa Pereira, SP18976543, 999000111222, Ribeirão Preto, SP
+José Nascimento, MG20123456, 555666777888, Ouro Preto, MG
+Amanda Oliveira, SP20123456, 888999000111, Sorocaba, SP
+Rafael Costa, SP14329876, 888999000111, Sorocaba, SP
+Isabel Santos, MG19876543, 666777888999, Contagem, MG
+Carlos Lima, SP13456789, 111222333444, São Bernardo do Campo, SP
