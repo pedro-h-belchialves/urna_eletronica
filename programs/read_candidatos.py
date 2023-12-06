@@ -11,7 +11,7 @@ def ler_candidatos(caminho_arquivo):
             # Adiciona os elementos ao mapa ou matriz
             info = {
                 'nome': elementos[0],
-                'titulo': elementos[1],
+                'numero': elementos[1],
                 'partido': elementos[2],
                 'estado': elementos[3],
                 'cargo': elementos[4],

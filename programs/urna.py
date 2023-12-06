@@ -1,5 +1,6 @@
 from read_candidatos import ler_candidatos
 from read_eleitores import ler_eleitores
+from voting import iniciarVotacao
 
 candidatos_urna  = []
 eleitores_urna = []
@@ -15,22 +16,7 @@ def lerCanditato():
 	candidatos = ler_candidatos('data\candidato.txt') #'data\candidato.txt'
 	candidatos_urna.append(candidatos)
 	controleExecucao()
-
-def iniciarVotacao():
-	# local = input('UF onde está localizada a urna:')
-	print(candidatos_urna)
-	print('\n')
-	print(eleitores_urna)
-		# print(candidatos_urna[0])
-
-	# filtra por estado =========
-	# candidatos_estado = []
-	# for candidato in candidatos:
-	# 	if candidato['cargo'] == "P" or candidato['estado'] == federacao:
-	# 		candidatos_estado.append(candidato)
-	# 		print(candidatos_estado)
-	
-    
+	  
 # play_urna = True
 # while play_urna == True:
 def controleExecucao():
@@ -41,7 +27,7 @@ def controleExecucao():
 	elif option == 2:
 		lerEleitor()
 	elif option == 3:
-		iniciarVotacao()
+		iniciarVotacao(candidatos_urna[0], eleitores_urna[0])
 
 
 
