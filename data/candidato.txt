@@ -11,5 +11,5 @@ Emília Santos, 15, PCT, MG, G
 Miguel Alves, 56, PDM, SP, G
 Ricardo Rocha, 78, PDR, SP, G
 Paulo da Cunha, 15, PXB, SP, P
-Guilherme Guimarães, 32, PTB, AM,P
+Guilherme Guimarães, 32, PTB, AM, P
 Aline Pereira, 76, PAL, MG, P
